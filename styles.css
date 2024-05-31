@@ -1,0 +1,72 @@
+.content{
+
+    display:flex;
+    justify-content: space-between;
+
+    margin-top: 100px;
+    align-items: end;
+}
+
+.content h1{
+    
+    font-size:50px;
+    font-weight:bold ;
+    text-transform: uppercase;
+}
+.content h4{
+    
+    text-align:end;
+
+}
+
+
+.pic{
+    padding :0;
+    height:250px;
+    width: 250px;
+    border-radius: 50%;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+   
+   border: 8px solid black;
+
+   background-color:  rgb(68, 115, 122);
+   min-height:200vh;
+}
+.discrip{
+
+    margin : 50px;
+}
+
+.discrip h1{
+    font-size: 50px ;
+    font-weight: bold;
+    text-align: center;
+}
+
+.discrip p{
+
+    line-height: 25px;
+    letter-spacing: 2px;
+}
+
+
+.bio h1{
+    font-size: 50px ;
+    font-weight: bold;
+    text-align: center;
+}
+
+.bio li{
+
+    line-height: 20px;
+    letter-spacing: 1.5px;
+}
+
+
